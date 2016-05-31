@@ -1,0 +1,21 @@
+{
+	"job": {
+		"_id": 2,
+		"start": "03/12/87",
+		"type": "NEWJOB",
+		"finish": "04/24/87",
+		"status": "NEW",
+		
+		"resource": {
+			"_id": 1,
+			"name": "PRASHANT",
+            
+			"resourceprofile": {
+			"job_type": "DEVELOPMENT",
+			"skill_level": 5
+			}
+		
+		}	
+	
+	}
+}
